@@ -13,3 +13,4 @@ Notes and usage details for devfinder-app.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- link the usage section
