@@ -22,3 +22,4 @@ Notes and usage details for devfinder-app.
 - link the usage section
 - fix a small wording issue
 - clarify the setup steps
+- fix a small wording issue
